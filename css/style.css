@@ -1,0 +1,61 @@
+ * {
+ 		margin: 0px;
+ 		padding: 0px;
+ 		font-family: Arial;
+ 		font-size: 12px;
+
+ }
+ #wrapper{
+ 	position: absolute;
+ 	left: 50%;
+ 	top: 20px;
+ 	margin-left: -231px;
+ 	padding-top: 0px;
+ 	padding-bottom: 0px;
+
+ }
+ .logo{
+ 	position: absolute;
+ 	margin-left: 500px;
+ 	top: 210px;
+ 	padding-top: 0px;
+ 	padding-bottom: 0px;
+
+ }
+
+.game{
+	position: absolute;
+	left: 50%;
+ 	top: 112px;
+ 	margin-left: -160px;
+	padding-top: 0px;
+ 	padding-bottom: 0px;
+ 	z-index: 100;
+}
+.ipad{
+	position: absolute;
+	left: 50%;
+ 	top: 80px;
+ 	margin-left: -247.5px;
+	padding-top: 0px;
+ 	padding-bottom: 0px;
+}
+.writing{
+	position: absolute;
+	left: 50%;
+ 	top: 160px;
+ 	margin-left: -480px;
+	padding-top: 0px;
+ 	padding-bottom: 0px;
+
+}
+.developer{
+	position: absolute;
+	left: 50%;
+ 	top: 653px;
+ 	margin-left: -118px;
+	padding-top: 0px;
+ 	padding-bottom: 0px;
+
+}
+
